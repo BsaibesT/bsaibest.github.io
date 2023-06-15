@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I may not know what I am doing but I am good at it.  
+I may not know what I am doing but I am good at it. I am a human doing human things humanly. 
