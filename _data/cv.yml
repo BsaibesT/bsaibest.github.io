@@ -56,9 +56,7 @@
       institution: Purdue School of Science, Indianpolis IN
       year: 2016 - 2023
       description:
-      - title: Thesis
-        contents:
-          - Short range Probes to Extensions of the Standard Model
+      - title: "Thesis\: Short range Probes to Extensions of the Standard Model"
     - title: M.S. Physics
       institution: DePaul University, Chicago IL
       year: 2014 - 2016
@@ -96,4 +94,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Drums, Woodworking, Cars 
+    - <u>Hobbies:</u> Drums, Woodworking, Cars
