@@ -56,14 +56,12 @@
       institution: Purdue School of Science, Indianpolis IN
       year: 2016 - 2023
       description:
-      - title: "Thesis\: Short range Probes to Extensions of the Standard Model"
+        - "Thesis: Short range Probes to Extensions of the Standard Model"
     - title: M.S. Physics
       institution: DePaul University, Chicago IL
       year: 2014 - 2016
       description:
-        - title: Thesis
-          contents:
-            - A Study of Amorphous and Crystalline Transparent Conducting Oxides' Structures Through Radial-Distribution Functions 
+        - "Thesis: A Study of Amorphous and Crystalline Transparent Conducting Oxides' Structures Through Radial-Distribution Functions" 
 
     - title: B.S Physics
       institution: University of Illinois at Chicago
