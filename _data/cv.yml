@@ -15,12 +15,18 @@
       institution:  Purdue School of Science
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Graduate Researcher
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Developed system to measure theorized fifth forces.
+            - System is sensitive to Yukawa-like interactions.
+            - Enhanced sensitiviy over older studies by an order of magnitude.
+            - Mentored undergraduate reseachers.
+        - title: Graduate Teaching Assistant
+          contents:
+            - Led physics recitation courses.
+            - Presented problems and problem solving techniques to undergrad students.
+            - Instructed undergraduate physics lab courses.
+            - Held office hours for students who needed extra help.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
