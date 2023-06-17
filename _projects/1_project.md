@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Short Range
 description: a project with a background image
 img: assets/img/source_mass_animation.gif
 importance: 1
