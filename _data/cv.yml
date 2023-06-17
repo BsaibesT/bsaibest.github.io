@@ -8,7 +8,7 @@
     - name: Languages
       value:
 
-- title: Education
+- title: Experience
   type: time_table
   contents:
     - title: PhD
@@ -34,16 +34,14 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Education
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Ph.D. Physics
+      institution: Purdue School of Science, Indianpolis IN
+      year: 2016 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Thesis:
           contents:
             - Sub-description 1.
             - Sub-description 2.
