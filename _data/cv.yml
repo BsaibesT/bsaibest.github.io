@@ -3,15 +3,11 @@
   contents:
     - name: Full Name
       value: Thomas Bsaibes
-    - name: Date of Birth
-      value:
-    - name: Languages
-      value:
 
 - title: Experience
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. Student
       institution:  Purdue School of Science
       year: 2023
       description:
@@ -27,12 +23,31 @@
             - Presented problems and problem solving techniques to undergrad students.
             - Instructed undergraduate physics lab courses.
             - Held office hours for students who needed extra help.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Visiting Graduate Researcher
+      institution: NHMFL, Los Alamos National Laboratory
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Worked as a resarcher under the supervision of Dr. Marcelo Jaime
+        - Ran magnetostriction experiments.
+        - Supported users during pulsed magnetic field experiments.
+        - Set up and started running an experiment to measure the harmonic of a aluminium rod.
+        - Used DMRG techniques to reproduce theoretical results.
+        - Designed mounting bracket to attach a camera to a spectrometer.
+    - title: M.S. Student
+      institution: DePaul University, Chicago IL
+      year: 2014 - 2016
+      description:
+        - title: Graduate Researcher
+          contents:
+            - Studied conduction properties of transparent conducting oxide In-O.
+            - Analyzed the structure of the oxides with a radial distribution function.
+            - Correlated the sample structure to conduction properties.
+        - title: Graduate Teaching Assistant
+          contents:
+            - Aided professors in teaching the undergraduate physics courses during lecture.
+            - Set up and tested laboratory equipment before lecture.
+            - Answered students questions during lecture.
+            - Held office hours for students who needed extra help.
 
 - title: Education
   type: time_table
@@ -41,49 +56,36 @@
       institution: Purdue School of Science, Indianpolis IN
       year: 2016 - 2023
       description:
-        - title: Thesis Short range Probes to Extensions of the Standard Model
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      - title: Thesis
+        contents:
+          - Short range Probes to Extensions of the Standard Model
+    - title: M.S. Physics
+      institution: DePaul University, Chicago IL
+      year: 2014 - 2016
       description:
-        - Description 1.
-        - Description 2.
+        - title: Thesis
+          contents:
+            - A Study of Amorphous and Crystalline Transparent Conducting Oxides' Structures Through Radial-Distribution Functions 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: B.S Physics
+      institution: University of Illinois at Chicago
+      year: 2010 - 2014
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
-      items: 
+      items:
         - School of Science Outstanding Graduate Student Award
     - year: 2022
-      items: 
+      items:
         - SMART Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.
@@ -94,4 +96,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Drums, Woodworking, Cars 
