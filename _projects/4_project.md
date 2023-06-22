@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Gravitational $\Pi$-Pulse
+description: Kinda like you do with lasers but much harder.
 img:
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
