@@ -2,7 +2,7 @@
 layout: page
 title: Cylinder Alignmnet
 description: a project with a background image
-img: ComsolSim.png
+img: assets/img/ComsolSim.png
 importance: 2
 category: work
 ---
