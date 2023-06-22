@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gravitational $$\Pi$$ Pulse
+title: Gravitational Π-Pulse
 description: Kinda like you do with lasers but much harder.
 img:
 importance: 3
