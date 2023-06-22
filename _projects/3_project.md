@@ -2,7 +2,7 @@
 layout: page
 title: Micro-Cylinder Fabrication
 description: Come on! It's not even a full cylinder?
-img: assets/img/cylinder520x_real.png
+img: assets/img/cylinder5_20x_real.png
 redirect: https://unsplash.com
 importance: 3
 category: work
