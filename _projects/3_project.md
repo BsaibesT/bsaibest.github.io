@@ -2,7 +2,7 @@
 layout: page
 title: Micro-Cylinder Fabrication
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: ComsolSim.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
