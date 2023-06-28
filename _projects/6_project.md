@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Woodworking
+description: No that's not blood, why would you think that?
 img:
 importance: 4
 category: fun
