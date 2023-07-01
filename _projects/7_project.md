@@ -26,6 +26,16 @@ DRUMS! DRUMS! DRUMS! DRUMS! DRUMS! DRUMS! DRUMS! DRUMS!
 
 DRUMS! I LOVE THEM! I PLAY THEM!
 
+Current Gear:\\
+Cymbals
+{::nomarkdown}<ul><li>18" UFIP Rough Crash</li></ul>{:/}
+{::nomarkdown}<ul><li>22" Dream Bliss Ride</li></ul>{:/}
+{::nomarkdown}<ul><li>19" Zildjian Crash/Ride (Not sure what it is, but it's old?)</li></ul>{:/}
+{::nomarkdown}<ul><li>24" Bosphorous Antique Ride</li></ul>{:/}
+{::nomarkdown}<ul><li>15" Istanbul Agop Xist Dark Hats </li></ul>{:/}
+
+Drums\\
+{::nomarkdown}<ul><li>Not sure, I found them in a dumpster and fixed them up. </li></ul>{:/}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,11 +59,6 @@ DRUMS! I LOVE THEM! I PLAY THEM!
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
