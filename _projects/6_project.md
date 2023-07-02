@@ -7,7 +7,7 @@ importance: 4
 category: fun
 ---
 
-They say if you cut, nail, and glue pieces of wood randomly given enough time a master piece will spontaneously appear. I guess I should keep trying.
+They say if you cut, nail, and glue pieces of wood randomly, given enough time a master piece will spontaneously appear. I guess I should keep trying.
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -23,18 +23,22 @@ They say if you cut, nail, and glue pieces of wood randomly given enough time a 
 <div class="caption">
     A comb and a box.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-end">
+    <div class="col-sm-0">
+    </div>
+    <div class="col-xl-10">
         {% include figure.html path="assets/img/CelticKnot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-0">
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Celtic Knot.
 </div>
 
-You can also put regular text between your rows of images.
+<!-- You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images. -->
 
 
 <div class="row justify-content-sm-center">
@@ -50,7 +54,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
 </div>
 
 
-The code is simple.
+<!-- The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
@@ -65,5 +69,5 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
+``` -->
 {% endraw %}
