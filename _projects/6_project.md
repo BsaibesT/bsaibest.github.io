@@ -10,7 +10,7 @@ category: fun
 They say if you cut, nail, and glue pieces of wood randomly given enough time a master piece will spontaneously appear. I guess I should keep trying.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/HildeCombandBox003.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +21,7 @@ They say if you cut, nail, and glue pieces of wood randomly given enough time a 
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    A comb and a box.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
