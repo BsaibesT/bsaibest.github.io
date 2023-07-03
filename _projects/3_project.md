@@ -21,7 +21,7 @@ In order to increase the sensitivity for a short range interaction measurment, o
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+
 </div>
 
 The cylinder's can be made with grayscale lithography, a maskless lithographic technique.
