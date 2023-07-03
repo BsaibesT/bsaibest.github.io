@@ -32,7 +32,7 @@ The cylinder's can be made with grayscale lithography, a maskless lithographic t
     </div>
 </div>
 <div class="caption">
-    After reflowing the cylinder, the structure can be smoothed out.
+    After reflowing the cylinder, the structure is be smoothed out.
 </div>
 
 
