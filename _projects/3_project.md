@@ -11,13 +11,13 @@ In order to increase the sensitivity for a short range interaction measurment, o
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cylinder12_50xT.tif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cylinder12_50xT.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cylinder12_50xC.tif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cylinder12_50xC.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cylinder12_50xB.tif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cylinder12_50xB.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -28,9 +28,9 @@ The cylinder's can be made with grayscale lithography, a maskless lithographic t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cylinder7_5x.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</divs>
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
