@@ -33,8 +33,8 @@ The cylinder's are made with grayscale lithography, a maskless lithographic tech
     </div>
 </div>
 <div class="caption">
-<div>
-The structure is defined by "layers". Each layer is assigned a different value which controls lasers intensity. 
+</div>
+The structure is defined by "layers". Each layer is assigned a different value which controls a laser's intensity. 
 
 <div class="row">
     <div class="col-lg">
