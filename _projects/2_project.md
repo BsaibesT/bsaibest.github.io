@@ -27,6 +27,6 @@ Experimental data can be mapped to simulated data to extract the initial separat
     Sketch of the experimental geometry.
 </div>
 
-The separation is \$$h = h_0 + r(1-\cos(\theta)) - \delta\sin(\theta) + \Delta h$\$ and the angle \$$\theta = \theta_0 + \Delta\theta\$$
+The separation and angle are \$$h = h_0 + r(1-\cos(\theta)) - \delta\sin(\theta) + \Delta h$\$ \$$\theta = \theta_0 + \Delta\theta\$$
 
 \\(\Delta h\\) and \\(\Delta\theta\\) are known experimentally. 
