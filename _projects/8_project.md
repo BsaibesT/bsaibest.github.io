@@ -6,4 +6,4 @@ img:
 importance: 4
 category: fun
 ---
-Here are some things that are not drums. 
+It is sad that not all things are drums.
