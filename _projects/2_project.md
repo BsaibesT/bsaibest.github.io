@@ -30,7 +30,7 @@ Experimental data can be mapped to simulated data to extract the initial separat
 The separation and angle are \$$h = h_0 + r(1-\cos(\theta)) - \delta\sin(\theta) + \Delta h$\$ \$$\theta = \theta_0 + \Delta\theta\$$
 
 \\(\Delta h\\) and \\(\Delta\theta\\) are known experimentally. 
-Fitting the experimental data to simulation data \\(h_0\\), \\(\theta_0\\), \\(r\\), and \\(\delta\\) can be determined.
+Fitting the experimental data to the simulation data is shown below.
 
 <div class="row">
     <div class="col-lg">
