@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cylinder Alignmnet
+title: Cylinder Alignment
 description: Do you need a cylinder aligned with a plane?
 img: assets/img/ComsolSim.png
 importance: 2
