@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <!-- I may not know what I am doing but I am good at it. I am a human doing human things humanly.  -->
-I am a physicist working with a precision measurement group developing experiments to measure short range interactions. I have been involved in deveopling a mechanical measurements probing interactions in the submicron regime. I have also been involved in the inital stages of development for an experiment in which a gravitational interaction is used to induce a $$\Pi$$-pulse in a nanosphere.
+I am a physicist working with a precision measurement group developing experiments to measure short range interactions. I have been involved in developing a mechanical measurements probing interactions in the submicron regime. I have also been involved in the inital stages of development for an experiment in which a gravitational interaction is used to induce a $$\Pi$$-pulse in a nanosphere.
