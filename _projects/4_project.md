@@ -13,7 +13,7 @@ category: work
     </div>
 </div>
 <div class="caption">
-    The potential \\(\alpha\\) limits if \\(\Pi\\)-pulse technique is implemented.
+    Blue curve: predicted limits from a Π-Pulse measurment system.
 </div>
 
 More details to come!
