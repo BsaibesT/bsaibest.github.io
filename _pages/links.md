@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /links/
-title: Links
+title: links
 description:
 nav: True
 nav_order: 4
