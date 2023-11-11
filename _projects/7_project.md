@@ -37,3 +37,14 @@ Cymbals
 Drums\\
 {::nomarkdown}<ul><li>Not sure, I found them in a dumpster and fixed them up. </li></ul>{:/}
 
+div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IstanbulHH.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/UFIPCrash.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/OldZildjian.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
