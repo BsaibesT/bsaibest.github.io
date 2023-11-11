@@ -48,3 +48,9 @@ Drums\\
         {% include figure.html path="assets/img/OldZildjian.jpg" title="crash/ride" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<div class="row">
+    <div class="col-lg">
+        {% include figure.html path="assets/img/ComsolSim.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
