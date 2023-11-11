@@ -3,7 +3,7 @@ layout: page
 title: Woodworking
 description: No that's not blood, why would you think that?
 img: assets/img/CelticKnot.jpg
-importance: 4
+importance: 5
 category: fun
 ---
 
