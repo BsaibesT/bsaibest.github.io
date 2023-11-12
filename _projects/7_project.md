@@ -50,7 +50,10 @@ Drums\\
 </div>
 
 <div class="row">
-    <div class="col-lg">
-        {% include figure.html path="assets/img/DreamRide.JPG" title="dream ride" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DreamRide.JPG" title="istanbul agop hi-hats" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/BosphorusRide.JPG" title="ufip crash" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
