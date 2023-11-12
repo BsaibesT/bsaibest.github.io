@@ -51,6 +51,6 @@ Drums\\
 
 <div class="row">
     <div class="col-lg">
-        {% include figure.html path="assets/img/DreamRide" title="dream ride" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DreamRide.jpg" title="dream ride" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
