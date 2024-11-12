@@ -10,12 +10,11 @@
     - institution: National Geodetic-Intelligence Agency
       year: 2023 - 2024
       title: Geodetic Surveyor
-      description:
-        contents:
-          - Collected geodetic and geophysical data.
-          - Established a gravity calibration loop.
-          - Acted as the knowledge base for the operation of atomic gravimeters.
-          - Wrote a training document on the scientific principles behind absolute gravimeters.
+      contents:
+        - Collected geodetic and geophysical data.
+        - Established a gravity calibration loop.
+        - Acted as the knowledge base for the operation of atomic gravimeters.
+        - Wrote a training document on the scientific principles behind absolute gravimeters.
     - title: Ph.D. Student
       institution:  Purdue School of Science
       year: 2016 - 2023
