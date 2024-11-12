@@ -7,10 +7,10 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Geodetic Surveyor
-      institution: National Geodetic-Intelligence Agency
+    - institution: National Geodetic-Intelligence Agency
       year: 2023 - 2024
-      description: 
+      title: Geodetic Surveyor
+      description:
         contents:
           - Collected geodetic and geophysical data.
           - Established a gravity calibration loop.
