@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <!-- I may not know what I am doing but I am good at it. I am a human doing human things humanly.  -->
-I am a drummer who tries to know something about physics. I earned my PhD. in physics (not drumms) in 2023. As a PhD candidate at Purdue Indianapolis, I worked in a precision measurement group focused on detecting deviations from Newton’s second law of gravitation between objects at submicron separations. I successfully defended my thesis in 2023 and continue to look for new ways to make contributions to interesting problems.
+I am a drummer who tries to know something about physics. I earned my PhD. - not in drums - but in physics in 2023. As a PhD candidate at Purdue Indianapolis, I worked in a precision measurement group focused on detecting deviations from Newton’s second law of gravitation between objects at submicron separations. I successfully defended my thesis in 2023 and continue to look for new ways to make contributions to interesting problems.
 
 
 <!-- I am a physicist who recently completed a 1-year SMART Scholarship service commitment at the National Geospatial-Intelligence Agency (NGA) as a geodetic surveyor. During my time there, I carried out gravitational surveys and engaged with companies developing quantum based absolute gravimeters. Prior to the NGA, I was a physics PhD candidate at Purdue Indianapolis. His research focused on detecting deviations from Newton’s second law of gravitation for objects at submicron separations. I successfully defended my thesis in 2023 and continue to look for new ways to make contributions to interesting problems. -->
