@@ -7,8 +7,15 @@ importance: 8
 category: fun
 ---
 
-<iframe
+<!-- <iframe
   src="https://github.com/BsaibesT/Microscope_notebook/ParabolicMirrorSim_v2.html"
+  width="100%"
+  height="500px"
+>
+</iframe> -->
+
+<iframe
+  src="https://BsaibesT.github.io/Microscope_notebook/repl/index.html?kernel=python&toolbar=1"
   width="100%"
   height="500px"
 >
