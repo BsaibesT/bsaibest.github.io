@@ -9,7 +9,7 @@ category: fun
 
 <iframe
   src="https://github.com/BsaibesT/Microscope_notebook.git"
-  width="100%"
+  width="500%"
   height="500px"
 >
 </iframe>
