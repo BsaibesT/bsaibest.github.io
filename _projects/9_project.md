@@ -8,8 +8,9 @@ category: fun
 ---
 
 <iframe
-  src="https://bsaibest.github.io/Microscope_notebook/repl/index.html?kernel=python&toolbar=1"
+  src="https://github.com/BsaibesT/Microscope_notebook/blob/main/ParabolicMirrorSim_v2.html"
   width="100%"
   height="500px"
 >
 </iframe>
+
