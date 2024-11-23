@@ -8,7 +8,7 @@ category: fun
 ---
 
 <iframe
-  src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1"
+  src="https://github.com/BsaibesT/Microscope_notebook.git"
   width="100%"
   height="500px"
 >
