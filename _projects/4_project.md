@@ -3,7 +3,7 @@ layout: page
 title: Gravitational Π-Pulse
 description: Kinda like you do with lasers but much harder.
 img: assets/img/pi_pulse_structure_invert.png
-importance: 3
+importance: 4
 category: work
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: DRUMS!
 description: DRUMS!
 img: assets/img/BosphorusRide.JPG
-importance: 4
+importance: 7
 category: fun
 ---
 
