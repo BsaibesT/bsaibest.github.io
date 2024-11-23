@@ -8,7 +8,7 @@ category: fun
 ---
 
 <iframe
-  src="https://github.com/BsaibesT/Microscope_notebook/blob/main/ParabolicMirrorSim_v2.html"
+  src="https://github.com/BsaibesT/Microscope_notebook/ParabolicMirrorSim_v2.html"
   width="100%"
   height="500px"
 >
