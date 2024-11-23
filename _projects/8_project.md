@@ -1,9 +1,15 @@
 ---
 layout: page
-title: Not Drums!
-description: I struggle to understand what I am looking at.
+title: Mirrascope Ray Tracing
+description: Calculating the ray tracing of a mirrascope.
 img:
-importance: 9
+importance: 8
 category: fun
 ---
-It is sad that not all things are drums.
+
+<iframe
+  src="https://github.com/BsaibesT/Microscope_notebook/ParabolicMirrorSim_v2.html"
+  width="100%"
+  height="500px"
+>
+</iframe>
