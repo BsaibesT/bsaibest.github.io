@@ -37,7 +37,7 @@ category: fun
       mountActivateWidget: true,
       mountStatusWidget: true,
       binderOptions: {
-      repo: "https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.html",
+      repo: "https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/",
       },
   }
 </script>
