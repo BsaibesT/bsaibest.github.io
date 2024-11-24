@@ -13,3 +13,4 @@ category: fun
   height="800px"
 ></iframe>
 
+{% include ParabolicMirrorSim_v2.html %}
