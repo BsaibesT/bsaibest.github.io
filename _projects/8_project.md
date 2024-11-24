@@ -19,6 +19,10 @@ category: fun
 <script type="text/x-thebe-config">
 {
     requestKernel: true,
+    kernelOptions: {
+      kernelName: "python3",
+      path: "bsaibest.github.io/assets/notebooks/"
+    }
     binderOptions: {
         repo: "binder-examples/requirements",
         ref: "master",
