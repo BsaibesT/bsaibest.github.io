@@ -28,4 +28,16 @@ category: fun
         ref: "master",
     },
 }
+</script> -->
+
+<!-- Configure and load Thebe !-->
+<script type="text/x-thebe-config">
+  {
+      requestKernel: true,
+      mountActivateWidget: true,
+      mountStatusWidget: true,
+      binderOptions: {
+      repo: "binder-examples/requirements",
+      },
+  }
 </script>
