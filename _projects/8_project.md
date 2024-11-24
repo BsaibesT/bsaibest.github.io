@@ -47,13 +47,13 @@ category: fun
 <div class="thebe-activate"></div>
 <div class="thebe-status"></div>
 
-<pre data-executable="true" data-language="python">
+<!-- <pre data-executable="true" data-language="python">
 %matplotlib inline
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.linspace(0,10)
 plt.plot(x, np.sin(x))
 plt.plot(x, np.cos(x))
-</pre>
+</pre> -->
 
 <!-- <pre data-executable="true" data-language="python">print("Hello!")</pre> -->
