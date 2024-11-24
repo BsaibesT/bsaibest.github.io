@@ -8,7 +8,7 @@ category: fun
 ---
 
 <iframe
-  src="https://jupyterlite.github.io/demo/repl/index.html?theme=JupyterLab Dark"
+  src="https://jupyterlite.github.io/demo/repl/index.html?theme=JupyterLab?toolbar=1"
   width="100%"
   height="800px"
 ></iframe>
