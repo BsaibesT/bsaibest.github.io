@@ -10,7 +10,7 @@ category: fun
 <iframe
   src="https://jupyterlite.github.io/demo/repl/index.html?theme=JupyterLab Dark"
   width="100%"
-  height="100%"
+  height="800%"
 ></iframe>
 
 <!-- <iframe
