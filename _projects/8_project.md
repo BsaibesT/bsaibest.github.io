@@ -7,6 +7,12 @@ importance: 8
 category: fun
 ---
 
+<iframe
+  src="https://jupyterlite.github.io/demo/repl/index.html?theme=JupyterLab Dark"
+  width="100%"
+  height="100%"
+></iframe>
+
 <!-- <iframe
   src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.html?kernel=python&toolbar=1"
   width="100%"
@@ -31,7 +37,7 @@ category: fun
 </script> -->
 
 <!-- Configure and load Thebe !-->
-<script type="text/x-thebe-config">
+<!-- <script type="text/x-thebe-config">
   {
       requestKernel: true,
       mountActivateWidget: true,
@@ -45,7 +51,7 @@ category: fun
 <script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
 
 <div class="thebe-activate"></div>
-<div class="thebe-status"></div>
+<div class="thebe-status"></div> -->
 
 <!-- <pre data-executable="true" data-language="python">
 %matplotlib inline
