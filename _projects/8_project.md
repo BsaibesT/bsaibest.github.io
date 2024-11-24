@@ -6,7 +6,7 @@ img:
 importance: 8
 category: fun
 ---
-
+{bsaibest.github.io/assets/notebooks/ParabolicMirrorSim_v2.md}
 <!-- <iframe
   src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.html?kernel=python&toolbar=1"
   width="100%"
