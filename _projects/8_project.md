@@ -46,3 +46,5 @@ category: fun
 
 <div class="thebe-activate"></div>
 <div class="thebe-status"></div>
+
+<pre data-executable="true" data-language="python">print("Hello!")</pre>
