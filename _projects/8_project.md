@@ -42,7 +42,7 @@ category: fun
   }
 </script>
 
-<script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
+<script src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.ipynb"></script>
 
 <div class="thebe-activate"></div>
 <div class="thebe-status"></div>
