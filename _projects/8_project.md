@@ -7,12 +7,12 @@ importance: 8
 category: fun
 ---
 
-<iframe
-  src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.md"
+<!-- <iframe
+  src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.html?kernel=python&toolbar=1"
   width="100%"
   height="500px"
 >
-</iframe>
+</iframe> -->
 
 <!-- <script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
 
@@ -31,13 +31,13 @@ category: fun
 </script> -->
 
 <!-- Configure and load Thebe !-->
-<!-- <script type="text/x-thebe-config">
+<script type="text/x-thebe-config">
   {
       requestKernel: true,
       mountActivateWidget: true,
       mountStatusWidget: true,
       binderOptions: {
-      repo: "binder-examples/requirements",
+      repo: "https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/",
       },
   }
 </script>
@@ -47,4 +47,4 @@ category: fun
 <div class="thebe-activate"></div>
 <div class="thebe-status"></div>
 
-<pre data-executable="true" data-language="python">print("Hello!")</pre> -->
+<!-- <pre data-executable="true" data-language="python">print("Hello!")</pre> -->
