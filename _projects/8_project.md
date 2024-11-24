@@ -17,9 +17,11 @@ category: fun
 <script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
 
 <script type="text/x-thebe-config">
-   {
-       a: collection
-       of: key
-       val: pairs
-   }
+{
+    requestKernel: true,
+    binderOptions: {
+        repo: "binder-examples/requirements",
+        ref: "master",
+    },
+}
 </script>
