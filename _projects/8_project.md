@@ -14,7 +14,7 @@ category: fun
 >
 </iframe> -->
 
-<script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
+<!-- <script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
 
 <script type="text/x-thebe-config">
 {
@@ -28,7 +28,7 @@ category: fun
         ref: "master",
     },
 }
-</script> -->
+</script> --> -->
 
 <!-- Configure and load Thebe !-->
 <script type="text/x-thebe-config">
@@ -41,3 +41,5 @@ category: fun
       },
   }
 </script>
+
+<script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
