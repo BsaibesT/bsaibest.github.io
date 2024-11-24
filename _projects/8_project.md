@@ -12,3 +12,5 @@ category: fun
   width="100%"
   height="800px"
 ></iframe>
+
+{% include_relative assets/notebooks/ParabolicMirrorSim_v2.md %}
