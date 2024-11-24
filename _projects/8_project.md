@@ -8,7 +8,7 @@ category: fun
 ---
 
 <iframe
-  src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.md?kernel=python&toolbar=1"
+  src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.md"
   width="100%"
   height="500px"
 >
