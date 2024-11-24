@@ -7,12 +7,12 @@ importance: 8
 category: fun
 ---
 
-<!-- <iframe
-  src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.html?kernel=python&toolbar=1"
+<iframe
+  src="https://github.com/BsaibesT/bsaibest.github.io/blob/master/assets/notebooks/ParabolicMirrorSim_v2.md?kernel=python&toolbar=1"
   width="100%"
   height="500px"
 >
-</iframe> -->
+</iframe>
 
 <!-- <script src="https://unpkg.com/thebe@latest/lib/index.js"></script>
 
