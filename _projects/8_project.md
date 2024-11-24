@@ -7,10 +7,9 @@ importance: 8
 category: fun
 ---
 
-<!-- <iframe
+<iframe
   src="https://jupyterlite.github.io/demo/repl/index.html?theme=JupyterLab?toolbar=1"
   width="100%"
   height="800px"
-></iframe> -->
+></iframe>
 
-{% include_relative assets/notebooks/ParabolicMirrorSim_v2.md %}
