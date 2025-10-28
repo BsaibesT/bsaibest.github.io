@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cylinder Alignment
-description: Do you need a cylinder aligned with a plane?
+description: Cylinder alignment using capacitance.
 img: assets/img/ComsolSim.png
 importance: 2
 category: work
