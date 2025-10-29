@@ -20,10 +20,10 @@
       year: 2023 - 2024
       title: Geodetic Surveyor
       description:
-        - Collected geodetic and geophysical data.
-        - Established a gravity calibration loop.
-        - Acted as the knowledge base for the operation of atomic gravimeters.
-        - Wrote a training document on the scientific principles behind absolute gravimeters.
+        - Initiated effort towards a latitude-varying gravity calibration loop to meet the needs of the local survey team and reduce need for travel. 
+        - Identified candidate locations suitable for gravity calibration loop by extending altitude-based calibration sensitivities to a new technical standard for latitude-based methods.
+        - Coordinated secured site access, placed and geolocated medallions for future calibration expeditions. 
+        - Documented the scientific principles behind absolute gravimetry for geodetic surveyor training purposes. 
     - institution: NHMFL, Los Alamos National Laboratory
       title: Visiting Graduate Researcher
       year: 2022
@@ -32,7 +32,7 @@
         - Ran magnetostriction experiments.
         - Supported users during pulsed magnetic field experiments.
         - Set up and started running an experiment to measure the harmonics of a aluminium rod.
-        - Used DMRG techniques to reproduce theoretical results.
+        # - Used DMRG techniques to reproduce theoretical results.
         - Designed mounting bracket to attach a camera to a spectrometer.    
     - institution:  Purdue School of Science
       year: 2016 - 2023
