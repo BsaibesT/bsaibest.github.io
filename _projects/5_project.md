@@ -3,7 +3,7 @@ layout: page
 title: Nixie Tube Clock
 description: Telling time with a nice orange glow.
 img: # assets/img/
-importance: 5
+importance: 8z
 category: fun
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Mirrascope Ray Tracing
 description: Calculating the ray tracing of a mirrascope.
 img: assets/img/mirra_scope.png
-importance: 8
+importance: 5
 category: fun
 ---
 
