@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Micro-Cylinder Fabrication
-description: Come on! It's not even a full cylinder!
+description: Fractional cylinder to improve short range experiment.
 img: assets/img/cylinder5_20x_real.png
 # redirect: https://unsplash.com
 importance: 3
