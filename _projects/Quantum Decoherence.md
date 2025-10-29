@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cylinder Alignment
-description: Cylinder alignment using capacitance.
+title: Gravity Induced Decoherence
+description: Testing gravity decoherence mechanisms. 
 img: assets/img/ComsolSim.png
 importance: 0
 category: work
