@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Not Drums!
-description: I struggle to understand what I am looking at.
+title: Not Drums
+description:
 img:
 importance: 20
 category: fun
