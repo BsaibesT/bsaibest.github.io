@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Gravitational Π-Pulse
 description: #Kinda like you do with lasers but much harder.
@@ -16,4 +16,4 @@ category: work
     Blue curve: predicted limits from a Π-Pulse measurment system.
 </div>
 
-More details to come!
+More details to come! -->
