@@ -2,7 +2,7 @@
 layout: page
 title: Gravity Induced Decoherence
 description: Testing gravity decoherence mechanisms. 
-img: assets/img/ComsolSim.png
+img: 
 importance: 0
 category: work
 ---
