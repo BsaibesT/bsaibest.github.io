@@ -20,27 +20,6 @@
         - Established a gravity calibration loop.
         - Acted as the knowledge base for the operation of atomic gravimeters.
         - Wrote a training document on the scientific principles behind absolute gravimeters.
-    - institution:  Purdue School of Science
-      year: 2016 - 2023
-      title: Ph.D. Graduation Researcher
-      description:
-        - Designed micro-mechanical oscillator force sensor system.
-        - Developed lithographic process for manufacturing 20 μm tall fractional cylinder.
-        - Developed and characterized a capacitive alignment system.
-        - Simulated the capacitive alignment system to compare with experimental data.
-        - Mentored undergraduate researchers.
-        # - title: Graduate Researcher
-        #   contents:
-        #     - Developed system to measure theorized fifth forces.
-        #     - System is sensitive to Yukawa-like interactions.
-        #     - Enhanced sensitiviy over older studies by an order of magnitude.
-        #     - Mentored undergraduate reseachers.
-        # - title: Graduate Teaching Assistant
-        #   contents:
-        #     - Led physics recitation courses.
-        #     - Presented problems and problem solving techniques to undergrad students.
-        #     - Instructed undergraduate physics lab courses.
-        #     - Held office hours for students who needed extra help.
     - institution: NHMFL, Los Alamos National Laboratory
       title: Visiting Graduate Researcher
       year: 2022
@@ -50,7 +29,16 @@
         - Supported users during pulsed magnetic field experiments.
         - Set up and started running an experiment to measure the harmonics of a aluminium rod.
         - Used DMRG techniques to reproduce theoretical results.
-        - Designed mounting bracket to attach a camera to a spectrometer.
+        - Designed mounting bracket to attach a camera to a spectrometer.    
+    - institution:  Purdue School of Science
+      year: 2016 - 2023
+      title: Ph.D. Graduation Researcher
+      description:
+        - Designed micro-mechanical oscillator force sensor system.
+        - Developed lithographic process for manufacturing 20 μm tall fractional cylinder.
+        - Developed and characterized a capacitive alignment system.
+        - Simulated the capacitive alignment system to compare with experimental data.
+        - Mentored undergraduate researchers.
     - institution: DePaul University
       title: M.S. Graduate Researcher
       year: 2014 - 2016
