@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Micro-Cylinder Fabrication
-description: Fractional cylinder to improve short range experiment.
+description: Fractional cylinder to improve force measurement.
 img: assets/img/cylinder5_20x_real.png
 # redirect: https://unsplash.com
 importance: 3
