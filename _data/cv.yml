@@ -7,11 +7,15 @@
 - title: Work Experience
   type: time_table
   contents:
-    - institution: University of Maryland & The National Institute of Standards and Technology
+    - institution: University of Maryland College Park & The National Institute of Standards and Technology
       year: 2025 - Present
       title: Postdoctoral Experimental Physicist
       description:
-        - 
+        - Characterized two competing pendula designs using optical lever photodiode measurement, analyzed time-series data to determine pendula frequency using FFT signal analysis, then confirmed agreement with theoretical performance model.
+        - Installed experimental equipment including pendulum in vacuum chamber containing trapped atoms using custom hardware for future tests of quantum decoherence via gravity.
+        - Demonstrated the viability of torsional balance approach by implementing a real-time operating system that controls the torsional pendulum amplitude using optical feedback and collects the pendulum position data using an optical lever; results to be presented at the 2026 APS Global Summit and a journal publication is under preparation.
+        - Supported ongoing collaboration between University of Maryland (Jacob Taylor's group), NIST (Jon Pratt's group) and UC Berkeley (Holger M\"uller's group) through meetings and on-site visits.
+        - Supervised, trained, and mentored three undergraduate researchers in experimental design, fabrication, and fundamental laboratory skills.
     - institution: National Geodetic-Intelligence Agency
       year: 2023 - 2024
       title: Geodetic Surveyor
