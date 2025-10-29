@@ -28,12 +28,12 @@
       title: Visiting Graduate Researcher
       year: 2022
       description:
-        - Worked as a resarcher under the supervision of Dr. Marcelo Jaime
-        - Ran magnetostriction experiments.
-        - Supported users during pulsed magnetic field experiments.
-        - Set up and started running an experiment to measure the harmonics of a aluminium rod.
-        # - Used DMRG techniques to reproduce theoretical results.
-        - Designed mounting bracket to attach a camera to a spectrometer.    
+        - \item Conducted magnetostriction experiments using a fiber Bragg grating. 
+        - \item Cryogenically cooled samples and pulsed with 65 T magnet.
+        - \item Supported users during pulsed magnetic field experiments.
+        # - Used DMRG techniques to reproduce theoretical results. 
+        - Designed mounting bracket to attach a new camera to a spectrometer.
+        - Tested new camera by measuring the vibrational modes of a aluminum rod.  
     - institution:  Purdue School of Science
       year: 2016 - 2023
       title: Ph.D. Graduation Researcher
