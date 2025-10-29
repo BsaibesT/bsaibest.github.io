@@ -43,25 +43,14 @@
         - Developed and characterized a capacitive alignment system.
         - Simulated the capacitive alignment system to compare with experimental data.
         - Mentored undergraduate researchers.
-    - institution: DePaul University
-      title: M.S. Graduate Researcher
-      year: 2014 - 2016
-      description:
-        - Studied conduction properties of In-O.
-        - Samples varied in crystallinity.
-        - Correlated the sample structure to electron mobility.
-        - Analyzed the structure using a radial distribution function.
-        # - title: Graduate Researcher
-        #   contents:
-        #     - Studied conduction properties of transparent conducting oxide In-O.
-        #     - Analyzed the structure of the oxides with a radial distribution function.
-        #     - Correlated the sample structure to conduction properties.
-        # - title: Graduate Teaching Assistant
-        #   contents:
-        #     - Aided professors in teaching the undergraduate physics courses during lecture.
-        #     - Set up and tested laboratory equipment before lecture.
-        #     - Answered students questions during lecture.
-        #     - Held office hours for students who needed extra help.
+    # - institution: DePaul University
+    #   title: M.S. Graduate Researcher
+    #   year: 2014 - 2016
+    #   description:
+    #     - Studied conduction properties of In-O.
+    #     - Samples varied in crystallinity.
+    #     - Correlated the sample structure to electron mobility.
+    #     - Analyzed the structure using a radial distribution function.
 
 - title: Education
   type: time_table
